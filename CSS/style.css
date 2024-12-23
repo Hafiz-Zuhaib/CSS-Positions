@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+main{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+header#nav-header{
+    background-color: #1d3557;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    position: sticky;
+    top: 0;
+
+}
+header a{
+    color: white;
+    padding:0 10px ;
+}
+header#top-header{
+    height: 50px;
+}
+
+
+footer{
+    background-color: #1d3557;
+    color: white;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
